@@ -1,3 +1,28 @@
+## Spiegelung `ghcr.io/neogarce-prog/minio` / Mirror `ghcr.io/neogarce-prog/minio`
+
+Dieses Repository hält den Quellcode (Corresponding Source nach AGPL-3.0 Abschnitt 6 d) für das
+Container-Abbild
+`ghcr.io/neogarce-prog/minio@sha256:a1a8bd4ac40ad7881a245bab97323e18f971e4d4cba2c2007ec1bedd21cbaba2`
+(Tag `RELEASE.2025-09-07T16-13-09Z`, linux/amd64) bereit. Das Programm im Abbild ist unverändert;
+`minio --version` meldet `commit-id=07c3a429bfed433e49018cb0f78a52145d4bedeb`, den Commit des Tags
+[`RELEASE.2025-09-07T16-13-09Z`](../../tree/RELEASE.2025-09-07T16-13-09Z) in diesem Repository.
+Die Lizenz von MinIO steht in [`LICENSE`](LICENSE). Basis des Abbilds ist Red Hat Universal Base
+Image 9 micro; deren Lizenzvertrag liegt unverändert in
+[`EULA_Red_Hat_Universal_Base_Image_English_20190422.pdf`](EULA_Red_Hat_Universal_Base_Image_English_20190422.pdf).
+Red Hat unterstützt oder befürwortet diese Spiegelung nicht.
+
+This repository provides the Corresponding Source (AGPL-3.0 section 6 d) for the container image
+`ghcr.io/neogarce-prog/minio@sha256:a1a8bd4ac40ad7881a245bab97323e18f971e4d4cba2c2007ec1bedd21cbaba2`
+(tag `RELEASE.2025-09-07T16-13-09Z`, linux/amd64). The program in the image is unmodified;
+`minio --version` reports `commit-id=07c3a429bfed433e49018cb0f78a52145d4bedeb`, the commit of tag
+[`RELEASE.2025-09-07T16-13-09Z`](../../tree/RELEASE.2025-09-07T16-13-09Z) in this repository.
+MinIO's license is in [`LICENSE`](LICENSE). The image is based on Red Hat Universal Base Image 9
+micro; its license agreement is included unmodified as
+[`EULA_Red_Hat_Universal_Base_Image_English_20190422.pdf`](EULA_Red_Hat_Universal_Base_Image_English_20190422.pdf).
+Red Hat does not support or endorse this mirror.
+
+---
+
 > [!NOTE]
 > **THIS REPOSITORY IS NO LONGER MAINTAINED.**
 >
